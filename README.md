@@ -30,3 +30,5 @@ Note: The connection between these Entities makes us easier to locate the songs.
 (Song Album && Song Playlist)
 
 Relations: One-to-many and Many-to-one
+![image](https://github.com/Mishra2002/Music-library-System/assets/85693284/27084820-adad-4f04-ae28-79b659ee2ae0)
+
